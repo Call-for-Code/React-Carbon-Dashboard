@@ -10,4 +10,5 @@ services:
     ports:
       - "3000:3000"
     volumes:
+      - ../public:/app/public:rw
       - ../src:/app/src:rw

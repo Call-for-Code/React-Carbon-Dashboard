@@ -49,7 +49,7 @@ Install the following packages:
 In your browser, navigate to the following URL:
 
 ```
-http://localhost:8539
+http://localhost:3000
 ```
 
 ## What the value?
