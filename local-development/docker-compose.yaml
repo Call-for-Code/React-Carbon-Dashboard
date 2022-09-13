@@ -1,0 +1,13 @@
+version: "3"
+
+services:
+  rcd-dev:
+    container_name: rcd-dev
+    build:
+      dockerfile: local-development/Dockerfile
+      context: ../
+    restart: always
+    ports:
+      - "3000:3000"
+    volumes:
+      - ../src:/app/src:rw
