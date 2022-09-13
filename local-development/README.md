@@ -23,11 +23,11 @@ Install the following packages:
 
 1.  Clone the Git repository.
     ```
-    git clone https://github.com/Call-for-Code-for-Racial-Justice/Five-Fifths-Voter.git
+    git clone https://github.com/Call-for-Code/React-Carbon-Dashboard.git
     ```
 2.  Change to the `ui` folder under **Five Fifth Voter** repository.
     ```
-    cd Five-Fifth-Voter/ui
+    cd React-Carbon-Dashboard
     ```
 3.  Start the application
     > Add `--build` if a rebuild the base image is necessary. The first run will build the image.<br />A restart of the container is necessary to pick up changes outside the `src` directory.
