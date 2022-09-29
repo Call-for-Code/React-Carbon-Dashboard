@@ -4,11 +4,13 @@
 
 - React v17
 - Carbon Design System v11
+- Node JS v16
 - Bootstrapped with [Create React App](https://github.com/facebook/create-react-app)
 
 ## Live Demo
 
-> View the live [demo](http://dashboard-default.reactcarbon-dal10-b3c-4x1-514bd37ab295f8aeaf548c9dacf39708-0000.us-south.containers.appdomain.cloud) <br /> > **Credentials**: `demo / demo`
+View the live [demo](https://react-carbon-dashboard.tge4hc9rhau.us-south.codeengine.appdomain.cloud). <br />
+> **Credentials**: `demo / demo`
 
 ## Included Pages
 
